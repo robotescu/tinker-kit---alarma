@@ -1,4 +1,5 @@
 input.onButtonPressed(Button.A, function () {
+    basic.pause(2000)
     pornit = 1
 })
 input.onButtonPressed(Button.B, function () {
